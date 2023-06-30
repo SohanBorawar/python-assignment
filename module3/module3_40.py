@@ -9,4 +9,5 @@ for i in d1:
 
     else:
         d[i] = d1[i]
+        print(d)
 print(d)  
