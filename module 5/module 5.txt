@@ -1,0 +1,60 @@
+Why Django should be used for web-development? Explain how you can create a project in Django?
+
+> Django is a fast and simple framework that helps to save development time and therefore increase the overall cost-effectiveness of the project. Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Django is the best framework for web applications, as it allows developers to use modules for faster development. As a developer, you can make use of these modules to create apps, websites from an existing source. It speeds up the development process greatly, as you do not have to code everything from scratch.
+
+
+Step 1 — Opening PowerShell.
+Step 2 – Verifying Python Installation. ...
+Step 3 – Upgrading pip. ...
+Step 4 – Creating a Project Directory. ...
+Step 5 – Creating the Virtual Environment. ...
+Step 6 – Activating the Virtual Environment. ...
+Step 7 – Instal ling Django. ...
+Step 8 – Creating the Django Project.
+
+
+How to check installed version of django?
+
+> The very first method to check the version of Django is simply to write 'python -m django –version' in your terminal. code :- python -m django -version
+
+
+Explain what does django-admin.py make messages command is used for?
+
+> It creates (or updates) a message file in the conf/locale (in the Django tree) or locale (for project and application) directory. After making changes to the messages files you need to compile them with compilemessages for use with the builtin gettext support.
+
+What is Django URLs?make program to create django urls
+
+> Every page on the Internet needs its own URL. This way your application knows what it should show to a user who opens that URL. In Django, we use something called URLconf (URL configuration). URLconf is a set of patterns that Django will try to match the requested URL to find the correct view.
+
+
+What is a QuerySet?Write program to create a new Post object in database:
+
+> A QuerySet is a Collection of Data in Database. A Queryset is a Built in List of Object
+QuerySets makes it easier to get the data you actually need, by allowing you to filter and order the data at an early stage.
+
+
+Mention what command line can be used to load data into Django?
+
+> To load data into Django you have to use the command line Django-admin.py loaddata. The command line will searches the data and loads the contents of the named fixtures into the database.
+
+Explain what does django-admin.py make messages command is used for?
+
+> It creates (or updates) a message file in the conf/locale (in the Django tree) or locale (for project and application) directory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
